@@ -1,0 +1,7 @@
+{
+  "projectId": "fo1bzq",
+  "defaultCommandTimeout":8000,
+  "execTimeout":80000,
+  "reporter": "mochawesome"
+
+}
